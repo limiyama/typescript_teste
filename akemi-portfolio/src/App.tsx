@@ -1,9 +1,10 @@
+// onde vou chamar as seções da página
 import Main from "./sections/Akemi";
 
 function App() {
   return (
     <>
-      <div className="app bg-gray-20">
+      <div>
         <Main />
       </div>
     </>
